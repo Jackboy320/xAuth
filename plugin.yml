@@ -6,12 +6,12 @@ api: [1.8.0]
 description: xAuth protects your server and adds authentication.
 commands:
     login:
-        description: Login.
+        description: Log into your account.
     register:
-        description: Register
+        description: Register your account.
     changepw:
-        description: Register.
+        description: Change your password.
     unregister:
-        description: Register.
+        description: Unregister your account.
    
     
